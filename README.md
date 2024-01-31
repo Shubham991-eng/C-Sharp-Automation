@@ -43,7 +43,26 @@
 
 ![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/d94abf03-2d83-4827-be4e-83c177a045c8)
 
-12. 
+12. Please only use "SDSWebsiteAutomationTest.cs" file and ignore other files present in my repo. (As shown below)
+
+![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/630a87b3-1063-41f9-b41d-a2cb9e2720ad)
+
+13. To run the test you need to use run option from test explorer panel, if you don't see it then click on "test" tab and select "test explorer" (As shown below)
+
+![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/e2b71cb3-2064-4672-a42c-79c3c39dfd93)
+
+14. Now you will see a "test explorer" panel on the left side now expand the test and right click on the method named as "Automation Test" (As shown below)
+
+![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/1557a9f8-51df-4e00-82fe-19178382aea3)
+
+15. Now the test will start exectuting.
+
+
+**Note: ==> Make sure to select correct file and give the same workspace name and test name as shown in below image:** 
+
+![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/b824c3a4-4917-49ac-a288-6e074f018701)
+
+
 
 
 
