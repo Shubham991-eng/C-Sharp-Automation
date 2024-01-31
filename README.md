@@ -39,6 +39,12 @@
 
 ![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/8b381873-ec1d-4a96-b216-7a4c5127820b)
 
+11. Click on File and select open folder and select the "SDSWebsiteAutomationTest.cs" file which you downloaded code from my repo.
+
+![image](https://github.com/Shubham991-eng/C-Sharp-Automation/assets/116543835/d94abf03-2d83-4827-be4e-83c177a045c8)
+
+12. 
+
 
 
 
